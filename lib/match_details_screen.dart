@@ -20,6 +20,7 @@ class MatchDetailsScreen extends StatelessWidget {
         child: Padding(
           padding: const EdgeInsets.only(left: 40),
           child: Card(
+
             elevation: 5,
             child: Column(
               mainAxisAlignment: MainAxisAlignment.center,
