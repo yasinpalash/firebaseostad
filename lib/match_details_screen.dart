@@ -28,7 +28,7 @@ class MatchDetailsScreen extends StatelessWidget {
               children: <Widget>[
                 Text(
                   '${args['team1']} vs ${args['team2']}',
-                  style: TextStyle(fontSize: 40),
+                  style: TextStyle(fontSize: 35),
                 ),
                 Text(
                   '${args['goals1']} : ${args['goals2']}',
