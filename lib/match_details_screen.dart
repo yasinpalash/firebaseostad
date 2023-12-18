@@ -35,6 +35,7 @@ class MatchDetailsScreen extends StatelessWidget {
                   style: TextStyle(fontSize: 20),
                 ),
                 Text(
+
                   'Time:${args['time']} ',
                   style: TextStyle(fontSize: 20),
                 ),
